@@ -1,3 +1,7 @@
+// This is the BlockTransform Code in CPP
+// Takes in 8*8 blocks and processes them using DCT and Quantization
+
+
 #include "blocktransform.h"
 #include <QColor>
 #include <iostream>
